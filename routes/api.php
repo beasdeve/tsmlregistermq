@@ -61,7 +61,7 @@ use App\Http\Controllers\Api\Modules\Freight\FreightController;
 |
 */
 // Route::post('login', [UserController::class, 'login']);
-//check1
+//check
 // ----------------------------------- register -----------------------------------------
 
 Route::post('/register', [UserController::class,'store']);
